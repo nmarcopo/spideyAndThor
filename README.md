@@ -1,5 +1,7 @@
-Project - README
-================
+# Systems Programming Final Project: Spidey and Thor
+Originally Submitted to professor [Peter Bui](https://www3.nd.edu/~pbui/) on May 5, 2018.
+
+# Original Readme:
 
 Members
 -------
