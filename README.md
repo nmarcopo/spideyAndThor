@@ -1,6 +1,10 @@
 # Systems Programming Final Project: Spidey and Thor
 Originally Submitted to professor [Peter Bui](https://www3.nd.edu/~pbui/) on May 5, 2018.
 
+# Addendum:
+## TL;DR: compile with `make` and run with ./spidey. Navigate to localhost:[port] in your web browser
+This project was absolutely ridiculous. Professor Bui's lectures on HTTP, TCP, etc. seemed simple enough, but when it came down to actually doing this project, all the concepts seemed so primitive compared to what we did. Thanks to all the TA's for their helpful hints, my classmates for their high level assistance, and Professor Bui for causing my group to skip studying for finals to complete this project on time.
+
 # Original Readme:
 
 Members
